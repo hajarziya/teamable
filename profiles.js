@@ -1,3 +1,3 @@
-const profiles =[]
+const userProfiles =[]
 
-const profile =""
+const userProfile =""
